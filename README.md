@@ -65,6 +65,8 @@
 * <https://www.codetriage.com/>
 
 
+
+
 ## Media
 * [Denizli Hackerspace 'Ruby Programlama Diline Giriş'](https://www.youtube.com/watch?v=iRO3rHyrS2Q)
 * <http://5by5.tv/rubyonrails>
@@ -80,5 +82,9 @@
 
 ## Deployment
 *<https://devcenter.heroku.com/articles/getting-started-with-rails5>
+
+
+## IDE
+* <https://medium.com/@Sudhagar/power-up-your-sublime-text-as-rails-ide-f99c893397c1>
 
 # Feel free to add new resources.
